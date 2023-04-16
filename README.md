@@ -1,7 +1,5 @@
 # webpack5
 
-# Webpack App Starter
-
 Frontend environment for building JavaScript applications
 
 Includes the following features...
